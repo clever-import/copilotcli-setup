@@ -1,4 +1,5 @@
 <div align="center">
+<img src="./assets/header_esp.png" alt="GitHub Copilot - Programa de Adopción" width="100%" />
 
 # 🚀 Workshop 1 — GitHub Copilot CLI: Setup y Modo Interactivo
 
